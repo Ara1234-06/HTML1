@@ -1,0 +1,7 @@
+Ho creato un file feauture.txt e ho fatto una conventional commit all'interno,
+Comandi usati per la conventional commit 
+1) accedo dal terminale
+2) git status
+3) git add .
+4) git commit -m"feature.txt"
+5) git push
